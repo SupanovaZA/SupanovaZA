@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SupanovaZA
-- 👀 I’m interested in Robotics, Scuba Diving, Video Games, Mountain Biking!
+- 👀 I’m interested in Robotics, Scuba Diving, 3D Printing, Video Games, Mountain Biking!
 - 🌱 I’m currently learning C++, ROS, OOP, Python
 - 💞️ I’m looking to collaborate on machine learning and image processing projects!
 - 📫 tyronjardine@live.com
